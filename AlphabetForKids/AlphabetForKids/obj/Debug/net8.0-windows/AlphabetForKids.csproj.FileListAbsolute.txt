@@ -1,0 +1,22 @@
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\bin\Debug\net8.0-windows\AlphabetForKids.exe
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\bin\Debug\net8.0-windows\AlphabetForKids.deps.json
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\bin\Debug\net8.0-windows\AlphabetForKids.runtimeconfig.json
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\bin\Debug\net8.0-windows\AlphabetForKids.dll
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\bin\Debug\net8.0-windows\AlphabetForKids.pdb
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\obj\Debug\net8.0-windows\AlphabetForKids_MarkupCompile.cache
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\obj\Debug\net8.0-windows\AlphabetForKids.g.resources
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\obj\Debug\net8.0-windows\AlphabetForKids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\obj\Debug\net8.0-windows\AlphabetForKids.AssemblyInfoInputs.cache
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\obj\Debug\net8.0-windows\AlphabetForKids.AssemblyInfo.cs
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\obj\Debug\net8.0-windows\AlphabetForKids.csproj.CoreCompileInputs.cache
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\obj\Debug\net8.0-windows\AlphabetForKids.dll
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\obj\Debug\net8.0-windows\refint\AlphabetForKids.dll
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\obj\Debug\net8.0-windows\AlphabetForKids.pdb
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\obj\Debug\net8.0-windows\AlphabetForKids.genruntimeconfig.cache
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\obj\Debug\net8.0-windows\ref\AlphabetForKids.dll
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\obj\Debug\net8.0-windows\Alphabet.4DD58A20.Up2Date
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\obj\Debug\net8.0-windows\AlphabetForKids_Content.g.cs
+C:\Users\coryn\source\repos\AlphabetForKids\AlphabetForKids\bin\Debug\net8.0-windows\PROMISED FUTURE.mp3

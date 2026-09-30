@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1qFQPGBNIcA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\coryn\\source\\repos\\AlphabetForKids\\AlphabetForKids\\AlphabetForKids.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\coryn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.31\\microsoft.windowsdesktop.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\coryn\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.31\\microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\coryn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.31\\microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\coryn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.31\\microsoft.netcore.app.host.win-x64.8.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
